@@ -3,7 +3,7 @@
 
 t_iniziale = float(input("Tempo iniziale: "))
 t_finale = float(input("Tempo finale: "))
-deltaT = float(input("Intervallo di tempo: "))
+deltaT = t_finale-t_iniziale
 a = float(input("Accelerazione: "))
 v_iniziale = float(input("velocita iniziale: "))
 v_finale = float(input("velocita da raggiungere: "))
