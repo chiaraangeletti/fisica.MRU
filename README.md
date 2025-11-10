@@ -3,6 +3,7 @@
 ## 📃 Indice
 - [Descrizione](#descrizione)
 - [Sviluppo del codice](#sviluppo-del-codice)
+- [Strategia](#strategia)
 - [Autori](#autori)
 
 ## ✒️ Descrizione
@@ -25,6 +26,11 @@ L’obiettivo didattico del progetto è comprendere in modo più intuitivo come 
 - *Restituire il tempo in cui si raggiunge una certa velocità con la condizione if.*
 - *Restituire una tabella di dati o un testo.*
 - *Si può usare ChatGPT ma si deve saper spiegare il procedimento.*
+
+## ⚙️ Strategia
+
+Il programma utilizza diverse strategie per descrivere il moto di un oggetto. Inizialmente vengono raccolti i dati necessari dall’utente, come tempo, accelerazione e velocità iniziale e finale. Successivamente, un ciclo incrementa il tempo con piccoli intervalli costanti, simulando il movimento passo dopo passo e calcolando a ogni intervallo la velocità e la posizione dell’oggetto mediante le formule del moto uniformemente accelerato.
+I valori calcolati vengono memorizzati in una lista di dizionari, in modo da poterli visualizzare o analizzare al termine dell’esecuzione. Viene inoltre eseguito un controllo che segnala il momento in cui la velocità raggiunge o supera quella finale, evitando ripetizioni del messaggio. Infine, il programma verifica il segno dell’accelerazione per determinare se l’oggetto sta accelerando, rallentando o mantenendo una velocità costante.
  
 ## 🖍️ Autori
 Angeletti Chiara - Pausini Giacomo - Ramaccioni Matteo - Stramaccioni Tommaso
