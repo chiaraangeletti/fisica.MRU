@@ -5,7 +5,7 @@
 - [Sviluppo del codice](#-sviluppo-del-codice)
 - [Strategia](#-strategia)
 - [Test](#-test)
-- [Autori](#autori)
+- [Autori](#-autori)
 
 ## ✒️ ***Descrizione***
 
