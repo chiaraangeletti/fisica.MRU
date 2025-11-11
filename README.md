@@ -1,11 +1,11 @@
 # 🦾 ***fisica.MRU*** 🚀
 
 ## 📃 ***Indice***
-- [Descrizione](#descrizione)
-- [Sviluppo del codice](#sviluppo-del-codice)
-- [Strategia](#strategia)
-- [Test](#test)
-- [Autori](#autori)
+- [Descrizione](#-descrizione)
+- [Sviluppo del codice](#-sviluppo-del-codice)
+- [Strategia](#-strategia)
+- [Test](#-test)
+- [Autori](#-autori)
 
 ## ✒️ ***Descrizione***
 
