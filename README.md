@@ -1,11 +1,11 @@
 # ***fisica.MRU*** 🚀
 
 ## ***Indice*** 📃
-- [Descrizione](#descrizione)
-- [Sviluppo del codice](#sviluppo-del-codice)
-- [Strategia](#strategia)
-- [Test](#test)
-- [Autori](#autori)
+- [Descrizione](https://github.com/chiaraangeletti/fisica.MRU/blob/main/README.md#descrizione-%EF%B8%8F)
+- [Sviluppo del codice](https://github.com/chiaraangeletti/fisica.MRU/edit/main/README.md#sviluppo-del-codice-)
+- [Strategia](https://github.com/chiaraangeletti/fisica.MRU/edit/main/README.md#strategia-%EF%B8%8F)
+- [Test](https://github.com/chiaraangeletti/fisica.MRU/edit/main/README.md#test-)
+- [Autori](https://github.com/chiaraangeletti/fisica.MRU/edit/main/README.md#autori-%EF%B8%8F)
 
 ## ***Descrizione*** ✒️
 
